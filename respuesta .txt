@@ -1,0 +1,16 @@
+Ejercicio 1: Directorio telefónico
+Necesitas almacenar tus contactos en una aplicación, para cada uno necesitas: nombre, número telefónico y correo electrónico.
+**se tiene que hacer un objeto que tenga  
+string nombre
+int numero teléfono
+dtring correo**
+Ejercicio 2: Generando facturas
+En tu negocio necesitas emitir facturas que indiquen el nombre del cliente, número de identificación, teléfono, dirección, nombre del producto o servicio, cantidad, valor unitario, valor total por cada producto y valor total a pagar.
+**en este caso se realiza una función factura que llame al objeto cliente que tiene las variables 
+string nombre del cliente 
+int numero de identificación
+int teléfono 
+string dirección
+y llame a el objeto producto o servicio que  tiene las siguientes variables
+string nombre del valor 
+ **
